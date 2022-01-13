@@ -8,6 +8,8 @@
 
 [前端 phone 端仓库](https://github.com/Tyh2001/tyh-weibo-phone)
 
+[后端仓库](https://github.com/Tyh2001/tyh-weibo-backEnd-php)
+
 ## 接口地址
 
 基础地址：http://localhost/Virgo_Tyh_PHP/public/index.php/
